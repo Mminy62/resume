@@ -10,7 +10,6 @@
 
 [👾 github.com/Mminy62](https://github.com/mminy62)
 
-📞 +82) 010-7212-9258  
 <br>
 ## 💻 Skills
 
