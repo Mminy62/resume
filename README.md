@@ -11,6 +11,7 @@
 [👾 github.com/Mminy62](https://github.com/mminy62)
 
 <br>
+
 ## 💻 Skills
 
 **HTML  CSS  JS  JQuery React  MySQL  Python  Java  Oracle  Node.js  Vscode  Figma  AndroidStudio    iOS    Swift** 
